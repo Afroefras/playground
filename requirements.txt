@@ -7,10 +7,13 @@ attrs==21.2.0
 backcall==0.2.0
 bleach==3.3.0
 cachetools==4.2.2
+category-encoders==2.2.2
 certifi==2021.5.30
 cffi==1.14.5
 chardet==4.0.0
 click==8.0.1
+colorlover==0.3.0
+cufflinks==0.17.3
 cycler==0.10.0
 datasets==1.8.0
 decorator==5.0.9
@@ -62,9 +65,11 @@ packaging==20.9
 pandas==1.2.4
 pandocfilters==1.4.3
 parso==0.8.2
+patsy==0.5.1
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==8.2.0
+plotly==5.3.1
 prometheus-client==0.10.1
 prompt-toolkit==3.0.18
 protobuf==3.17.3
@@ -92,6 +97,8 @@ Send2Trash==1.5.0
 sentencepiece==0.1.96
 six==1.15.0
 sklearn==0.0
+statsmodels==0.12.2
+tenacity==8.0.1
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.0
